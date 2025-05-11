@@ -67,7 +67,7 @@ Follow these steps to run the project locally:
 
 ## 🖼️ Preview
 Here’s how the app looks:
-![Alt text](app)
+![Weather App Screenshot](app.PNG)
 
 ## 📄 License
 This project is open source under the MIT License
